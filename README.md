@@ -68,7 +68,6 @@
 ✔ Create custom automation scripts using Python   
 ✔ Design responsive and user-friendly UI with Tailwind CSS   
 ✔ Develop robust Backend APIs and Database architectures   
-✔ Continuously improving through SSUET engineering projects   
 
 </div>
 
