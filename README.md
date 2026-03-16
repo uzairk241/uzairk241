@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineering Student at SSUET | MERN Stack Developer | Freelancer 🇵🇰
+  Passionate Software Engineering Student | Full-Stack Web Developer | Automation Enthusiast
 </h3>
 
 <br/>
