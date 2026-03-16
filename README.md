@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Passionate Software Engineering Student | Full-Stack Web Developer | Automation Enthusiast 🇵🇰
+  Software Engineering Student at SSUET | MERN Stack Developer | Freelancer 🇵🇰
 </h3>
 
 <br/>
@@ -52,6 +52,14 @@
 
 <hr/>
 
+<h2 align="center">🐍 GitHub Contribution Activity</h2>
+
+<div align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uzairk241/uzairk241/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr/>
+
 <h2 align="center">🧩 What I Do</h2>
 
 <div align="center">
@@ -62,29 +70,6 @@
 ✔ Develop robust Backend APIs and Database architectures   
 ✔ Continuously improving through SSUET engineering projects   
 
-</div>
-
-<hr/>
-
-<h2 align="center">📌 Areas of Interest</h2>
-
-<div align="center">
-
-🌐 Full-Stack Development (MERN/Next.js)  
-🤖 Web Automation & Python Scripting  
-⚡ Performance Optimization & Clean Code  
-⚙ Database Design & System Engineering  
-🚀 Open-Source & Collaborative Building  
-
-</div>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzairk241&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairk241&layout=compact&theme=tokyonight" />
 </div>
 
 <hr/>
